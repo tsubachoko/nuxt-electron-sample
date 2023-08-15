@@ -61,3 +61,7 @@ yarn preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+
+以下を参考にelectronを設定
+https://nuxt.com/modules/electron
